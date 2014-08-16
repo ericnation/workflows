@@ -78,7 +78,7 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
-})('The  creative minds in POOP');
+})('The most creative minds in ArtFartz');
 
 fill;
 
